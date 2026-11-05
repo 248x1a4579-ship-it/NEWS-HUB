@@ -1,0 +1,6 @@
+{
+  "name": "NEWS HUB – Flutter Mobile App Studio",
+  "description": "Complete Android Flutter News Reader application with live interactive simulator, full Dart source code, Provider state management, REST API, SharedPreferences bookmarks, and student project documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
